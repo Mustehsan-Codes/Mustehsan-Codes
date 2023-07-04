@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustehsan Farooq</h1>
 <h3 align="center">Studying in BSCS at University of Central Punjab Lahore Pakistan</h3>
-
+<img src="https://media.licdn.com/dms/image/D4D03AQEdBZ_EWpbV8Q/profile-displayphoto-shrink_800_800/0/1685915723698?e=2147483647&v=beta&t=p79H6Fbr7ViHH0nTxAveH9ZsJZaeza7X6-JzexnDKTw" alt="mustehsan-codes-profile-pic" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustehsan-codes&label=Profile%20views&color=0e75b6&style=flat" alt="mustehsan-codes" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustehsan-codes" alt="mustehsan-codes" /></a> </p>
