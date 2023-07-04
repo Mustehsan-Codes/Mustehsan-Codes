@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mustehsan-farooq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mustehsan-farooq" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mustehsan-farooq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustehsan-farooq" height="30" width="40" /></a>
+<a href="https://pk.linkedin.com/in/mustehsan-farooq-850462237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustehsan-farooq" height="30" width="40" /></a>
 <a href="https://fb.com/mustehsan farooq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mustehsan farooq" height="30" width="40" /></a>
 <a href="https://instagram.com/mustehsan.farooq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mustehsan.farooq" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mr.sunny01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mr.sunny01" height="30" width="40" /></a>
